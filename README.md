@@ -1,4 +1,4 @@
-CMakeCatch2
+CMakeHelloWorld
 ------------------
 
 [![Build Status](https://travis-ci.org/MattClarkson/CMakeHelloWorld.svg?branch=master)](https://travis-ci.org/MattClarkson/CMakeHelloWorld)
