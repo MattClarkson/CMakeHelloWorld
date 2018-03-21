@@ -2,7 +2,7 @@ CMakeCatch2
 ------------------
 
 [![Build Status](https://travis-ci.org/MattClarkson/CMakeHelloWorld.svg?branch=master)](https://travis-ci.org/MattClarkson/CMakeHelloWorld)
-[![Build Status](https://ci.appveyor.com/api/projects/status/5pm89ej732c1ekf0/branch/master)](https://ci.appveyor.com/project/MattClarkson/cmakehelloworld)
+[![Build Status](https://ci.appveyor.com/api/projects/status/vt27j5tajc8tsvau/branch/master)](https://ci.appveyor.com/project/MattClarkson/cmakehelloworld)
 
 
 Purpose
