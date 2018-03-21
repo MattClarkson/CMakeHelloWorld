@@ -2,7 +2,7 @@ CMakeHelloWorld
 ------------------
 
 [![Build Status](https://travis-ci.org/MattClarkson/CMakeHelloWorld.svg?branch=master)](https://travis-ci.org/MattClarkson/CMakeHelloWorld)
-[![Build Status](https://ci.appveyor.com/api/projects/status/vt27j5tajc8tsvau/branch/master)](https://ci.appveyor.com/project/MattClarkson/cmakehelloworld)
+[![Build status](https://ci.appveyor.com/api/projects/status/vt27j5tajc8tsvau/branch/master?svg=true)](https://ci.appveyor.com/project/MattClarkson/cmakehelloworld/branch/master)
 
 
 Purpose
